@@ -10,6 +10,7 @@ public class Test {
 
 int value = 10; 
 int test = 20; 
+int remote = 30; 
 
 
 
