@@ -12,6 +12,7 @@ int value = 10;
 int test = 20; 
 int remote = 30; 
 
+int new_module = 40; 
 
 
 	}
